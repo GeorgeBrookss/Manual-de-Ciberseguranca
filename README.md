@@ -20,13 +20,17 @@ O app foi criado para conscientizar **idosos e adolescentes** sobre práticas se
 
 ## 🖼️ Imagens do aplicativo
 
+| Geral |
+|-------------|
+| ![Geral](imagens/tela-geral.png) |
+
 | Tela inicial | Dicas de segurança |
 |--------------|--------------------|
-| ![Tela inicial](imagens/tela-inicial.png) | ![Tela dicas](imagens/tela-dicas.png) |
+| ![Tela inicial](imagens/tela-inicial.png) | ![Tela dicas](imagens/tela-temas.png) |
 
 | Segurança no Pix | Alertas no WhatsApp |
 |------------------|---------------------|
-| ![Tela pix](imagens/tela-pix.png) | ![Tela whatsapp](imagens/tela-whatsapp.png) |
+| ![Tela pix](imagens/tela-pix.png) | ![Tela whatsapp](imagens/tela-contatos.png) |
 
 ---
 
