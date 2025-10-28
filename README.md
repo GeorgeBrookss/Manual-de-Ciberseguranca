@@ -22,15 +22,15 @@ O app foi criado para conscientizar **idosos e adolescentes** sobre práticas se
 
 | Geral |
 |-------------|
-| ![Geral](imagens/tela-geral.png) |
+| ![Geral](https://georgebrookss.github.io/Manual-de-Ciberseguranca/imagens/tela-geral.png) |
 
 | Tela inicial | Dicas de segurança |
 |--------------|--------------------|
-| ![Tela inicial](imagens/tela-inicial.png) | ![Tela dicas](imagens/tela-temas.png) |
+| ![Tela inicial](https://georgebrookss.github.io/Manual-de-Ciberseguranca/imagens/tela-geral.png/imagens/tela-inicial.png) | ![Tela dicas](https://georgebrookss.github.io/Manual-de-Ciberseguranca/imagens/tela-geral.png/imagens/tela-temas.png) |
 
 | Segurança no Pix | Alertas no WhatsApp |
 |------------------|---------------------|
-| ![Tela pix](imagens/tela-pix.png) | ![Tela whatsapp](imagens/tela-contatos.png) |
+| ![Tela pix](https://georgebrookss.github.io/Manual-de-Ciberseguranca/imagens/tela-geral.png/imagens/tela-pix.png) | ![Tela whatsapp](https://georgebrookss.github.io/Manual-de-Ciberseguranca/imagens/tela-geral.png/imagens/tela-contatos.png) |
 
 ---
 
